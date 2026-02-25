@@ -32,8 +32,14 @@ I create premium, interactive, and high-performance web experiences. Currently f
 
 ### 📈 GitHub Ecosystem
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ishant8287&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant8287&layout=compact&theme=tokyonight" height="165" />
+### 📈 GitHub Ecosystem
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ishant8287&show_icons=true&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=ffffff" alt="Ishant's GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant8287&layout=compact&theme=transparent&hide_border=true&title_color=38b2ac&text_color=ffffff" alt="Top Langs" height="170" />
+</p>
+
+---
 </p>
 
 ---
