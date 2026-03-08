@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ishant%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 # Hi there, I'm Ishant Singh 👋
 
 ### 🚀 Full Stack Developer (Learning & Building)
