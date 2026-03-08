@@ -82,16 +82,6 @@ https://mac-os-psi.vercel.app
 
 ---
 
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ishant8287&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant8287&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 # 📌 Current Focus
 
 * Building **Full Stack Applications**
