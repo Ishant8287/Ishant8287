@@ -2,12 +2,12 @@
 
 ### 🚀 Full Stack Developer (Learning & Building)
 
-I’m a Computer Science student passionate about building **interactive web applications and scalable full-stack products**.
-Currently working on **NeoDukaan** and improving my skills in **React, Backend Development, and Data Structures & Algorithms**.
+I'm a Computer Science student passionate about building **interactive web applications and full-stack products**.
+Currently working on improving my **React, Backend development, and DSA skills** while building real projects.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -29,42 +29,85 @@ Currently working on **NeoDukaan** and improving my skills in **React, Backend D
 
 ---
 
-## 📌 Current Focus
+# 🚀 Featured Projects
 
-* Building **NeoDukaan (Full Stack Project)**
-* Learning **Backend Development (Node + APIs)**
-* Practicing **Data Structures & Algorithms in Java**
-* Creating **high-quality frontend UI projects**
+### 🛒 NeoDukaan (Full Stack Marketplace)
+
+Repository:
+https://github.com/Ishant8287/neo-Dukaan
+
+Live Demo:
+https://neo-dukaan-xi62.vercel.app
 
 ---
 
-## 📊 GitHub Stats
+### 💪 Gym Tracker (React Workout Tracker)
+
+Repository:
+https://github.com/Ishant8287/gym-tracker-react
+
+Live Demo:
+https://gym-tracker-react-nine.vercel.app
+
+---
+
+### 📝 Notes App (React CRUD + Theme Toggle)
+
+Repository:
+https://github.com/Ishant8287/Notes-App
+
+Live Demo:
+https://notes-app-black-alpha.vercel.app
+
+---
+
+### 🍎 Apple Vision Pro Clone (GSAP Animation)
+
+Repository:
+https://github.com/Ishant8287/Apple-Vision-Pro
+
+Live Demo:
+https://apple-vision-pro-psi.vercel.app
+
+---
+
+### 💻 MacOS UI Clone
+
+Repository:
+https://github.com/Ishant8287/MacOS-
+
+Live Demo:
+https://mac-os-psi.vercel.app
+
+---
+
+# 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ishant8287&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishant8287&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishant8287&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🧠 Projects
+# 📌 Current Focus
 
-* **NeoDukaan** – Full stack marketplace project
-* **Gym Tracker** – Workout tracking app (CRUD + statistics)
-* **Notes App** – Notes manager with theme toggle and localStorage
-* **Apple Vision Pro Clone** – Scroll animations using GSAP
+* Building **Full Stack Applications**
+* Learning **Backend Development**
+* Practicing **DSA in Java**
+* Improving **UI & Animations**
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/ishant-singh-9b3bb93a7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+LinkedIn
+https://www.linkedin.com/in/ishant-singh-9b3bb93a7
 
 ---
 
 ⭐ Always learning, building, and improving as a developer.
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ishant8287/Ishant8287/blob/output/github-contribution-grid-snake.svg)
