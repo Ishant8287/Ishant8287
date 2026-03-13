@@ -32,13 +32,14 @@ Currently working on improving my **React, Backend development, and DSA skills**
 
 # 🚀 Featured Projects
 
-### 🛒 NeoDukaan (Full Stack Marketplace)
+### 🛒 RetailFlow (Full Stack Marketplace)
 
 Repository:
-https://github.com/Ishant8287/neo-Dukaan
+https://github.com/Ishant8287/RetailFlow
 
 Live Demo:
-https://neo-dukaan-xi62.vercel.app
+Vercel:--> https://retail-flow-xi.vercel.app/
+Render:--> https://retailflow.onrender.com
 
 ---
 
