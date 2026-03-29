@@ -73,22 +73,12 @@ https://apple-vision-pro-psi.vercel.app
 
 ---
 
-### 💻 MacOS UI Clone
-
-Repository:
-https://github.com/Ishant8287/MacOS-
-
-Live Demo:
-https://mac-os-psi.vercel.app
-
----
 
 # 📌 Current Focus
 
 * Building **Full Stack Applications**
 * Learning **Backend Development**
 * Practicing **DSA in Java**
-* Improving **UI & Animations**
 
 ---
 
