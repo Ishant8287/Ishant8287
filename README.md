@@ -13,7 +13,7 @@ Computer Science student focused on building scalable backend systems and real-w
 # 🌐 Portfolio
 
 🚀 **Live Portfolio Website**  
-portfolio-eight-xi-52.vercel.app
+🔗 [View Portfolio](https://portfolio-eight-xi-52.vercel.app)
 
 > Showcases my projects, skills, and development journey.
 
