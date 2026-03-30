@@ -11,7 +11,7 @@ I am a Computer Science student focused on building **scalable full-stack applic
 # 🌐 Portfolio
 
 🚀 **Live Portfolio Website**  
-https://your-portfolio-link.com
+portfolio-eight-xi-52.vercel.app
 
 > Showcases my projects, skills, and development journey.
 
