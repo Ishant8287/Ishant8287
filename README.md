@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ishant%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<h1 align="center">Ishant Singh</h1>
 
-# 👋 Hi, I'm Ishant Singh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Focused;Building+Scalable+Apps;DSA+in+Java&center=true&width=500&height=45">
+</p>
 
-### 🚀 Full Stack Developer | Backend-Focused
-
-I am a Computer Science student focused on building **scalable full-stack applications** with strong backend fundamentals.
+<p align="center">
+Computer Science student focused on building scalable backend systems and real-world full stack applications.
+</p>
 
 ---
 
