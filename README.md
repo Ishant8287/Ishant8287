@@ -44,6 +44,13 @@ Production-ready retail and inventory management system for Indian retailers. Mu
 
 ---
 
+### 🧠 VeritasAI — Real-Time Hallucination Detection System
+Full-stack system that detects hallucinations in AI-generated responses by extracting factual claims and verifying them against a knowledge base. Includes secure API middleware, rate limiting, and audit logging.
+
+🔗 [Live Demo](https://real-time-hallucination-detection-m.vercel.app) · [Backend](https://fact-check-backend-63k2.onrender.com) · [Repository](https://github.com/Ishant8287/real-time-hallucination-detection-middleware)
+
+---
+
 ### 🔐 Auth System — Production-Ready Authentication
 Complete auth lifecycle from scratch — JWT + refresh token rotation, Google OAuth, forgot/reset password, RBAC, rate limiting, Helmet, CORS. No Passport.js.
 
