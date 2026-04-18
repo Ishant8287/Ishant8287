@@ -65,13 +65,6 @@ Production-grade REST API with JWT auth, role-based access control, like system,
 
 ---
 
-### ♟️ ChessMaster — Real-Time Multiplayer Chess *(In Progress)*
-Full-stack chess platform with Socket.io multiplayer, JWT auth, and real-time game sync.
-
-📂 Repository → *(coming soon)*
-
----
-
 ### 🎯 Portfolio — Personal Developer Site
 Custom animated portfolio with 3D canvas hero, GSAP animations, custom cursor, dark/light theme, keyboard shortcuts, and a hidden Snake easter egg.
 
