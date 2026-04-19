@@ -97,6 +97,13 @@ Workout tracking app for logging exercises, sets, reps, and monitoring progress.
 
 ---
 
+### ☀️ DSA in Java — Pattern-Based Practice
+Structured DSA practice covering Sliding Window, Two Pointers, Binary Search, Recursion, Backtracking, and more.
+
+🔗 [Repo](https://github.com/Ishant8287/dsa-java)
+
+---
+
 ## 📌 Current Focus
 
 - Building production-level backend systems  
