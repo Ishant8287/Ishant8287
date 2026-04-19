@@ -1,32 +1,37 @@
 <h1 align="center">Ishant Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Node.js+%2B+Express+%2B+MongoDB;Building+Scalable+SaaS+Systems;DSA+in+Java&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Full+Stack+Developer;Building+Scalable+Systems;AI+Integration+%2B+DSA+in+Java&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-Computer Science student building production-ready backend systems and real-world full-stack applications.
+Backend-focused Computer Science student building scalable systems, AI-powered applications, and production-grade APIs.
 </p>
 
 ---
 
 ## 🌐 Portfolio
 
-🚀 **Live Portfolio** → [ishant.dev](https://portfolio-eight-xi-52.vercel.app)
+🚀 **Live Portfolio** → [Portfolio](https://portfolio-eight-xi-52.vercel.app)
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Tech Stack
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,java" />
 </p>
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
 </p>
+
+### 🤖 AI & Vector
+- Groq API, Pinecone  
+- LLaMA 3.1, MiniLM  
+- Embeddings & Retrieval Pipelines  
 
 ### 🧰 Tools
 <p>
@@ -38,67 +43,67 @@ Computer Science student building production-ready backend systems and real-worl
 ## 🚀 Projects
 
 ### 🛒 RetailFlow — Multi-Tenant SaaS POS
-Production-ready retail and inventory management system for Indian retailers. Multi-tenant architecture, real-time billing, digital khata, analytics dashboard, and AI-powered business insights.
+Production-ready retail & inventory system with multi-tenant architecture, billing, digital khata, analytics, and AI insights.
 
-🔗 [Live Demo](https://retail-flow-xi.vercel.app/) · [Backend](https://retailflow.onrender.com) · [Repository](https://github.com/Ishant8287/RetailFlow)
+⚡ **Highlight:** Optimized dashboard performance from ~9s → <150ms using MongoDB `$facet` pipeline  
 
----
-
-### 🧠 VeritasAI — Real-Time Hallucination Detection System
-Full-stack system that detects hallucinations in AI-generated responses by extracting factual claims and verifying them against a knowledge base. Includes secure API middleware, rate limiting, and audit logging.
-
-🔗 [Live Demo](https://real-time-hallucination-detection-m.vercel.app) · [Backend](https://fact-check-backend-63k2.onrender.com) · [Repository](https://github.com/Ishant8287/real-time-hallucination-detection-middleware)
+🔗 [Live](https://retail-flow-xi.vercel.app/) · [Repo](https://github.com/Ishant8287/RetailFlow)
 
 ---
 
-### 🔐 Auth System — Production-Ready Authentication
-Complete auth lifecycle from scratch — JWT + refresh token rotation, Google OAuth, forgot/reset password, RBAC, rate limiting, Helmet, CORS. No Passport.js.
+### 🧠 VeritasAI — Hallucination Detection System
+Full-stack system that detects hallucinations in LLM responses using claim extraction + vector similarity search + LLM fallback.
 
-📂 [Repository](https://github.com/Ishant8287/authSystem)
+⚡ **Highlight:** Hybrid verification pipeline (Vector DB + LLM reasoning)  
 
----
-
-### 📝 Blog API — REST API with Auth & RBAC
-Production-grade REST API with JWT auth, role-based access control, like system, Joi validation on every route, pagination, filtering, and sorting.
-
-🔗 [Live API](https://blog-api-backend-1-cdcp.onrender.com) · [Repository](https://github.com/Ishant8287/Blog-api-backend)
+🔗 [Live](https://veritas-ai-ai-hallucination-detecti.vercel.app/) · [Repo](https://github.com/Ishant8287/VeritasAI-Hallucination-Detection)
 
 ---
 
-### 🎯 Portfolio — Personal Developer Site
-Custom animated portfolio with 3D canvas hero, GSAP animations, custom cursor, dark/light theme, keyboard shortcuts, and a hidden Snake easter egg.
+### 🎓 Step Abroad — Backend Platform API
+University discovery & application platform with FSM-based lifecycle, audit trails, and recommendation engine.
 
-🔗 [Live](https://portfolio-eight-xi-52.vercel.app) · [Repository](https://github.com/Ishant8287/portfolio)
+⚡ **Highlight:** Recommendation engine built using MongoDB aggregation pipeline  
+
+🔗 [API](https://study-abroad-platform-c4uh.onrender.com/) · [Repo](https://github.com/Ishant8287/step-abroad-platform)
 
 ---
 
-### ☀️ DSA in Java — Pattern-Based Practice
-Structured DSA practice following a pattern-based approach — Sliding Window, Two Pointers, Binary Search, Recursion, Backtracking and more.
+### 🔐 Auth Service — Production Auth System
+Complete authentication system with JWT, refresh token rotation, Google OAuth, RBAC, and secure cookie handling.
 
-📂 [Repository](https://github.com/Ishant8287/dsa-java)
+🔗 [Live](https://auth-service-inul.onrender.com/) · [Repo](https://github.com/Ishant8287/auth-service)
+
+---
+
+### 📝 Blog API — REST API with RBAC
+Production-grade API with authentication, role-based access control, validation, pagination, and filtering.
+
+🔗 [Live](https://blog-api-backend-1-cdcp.onrender.com/) · [Repo](https://github.com/Ishant8287/Blog-api-backend)
 
 ---
 
 ### 📓 Notely — Notes App
-Minimal notes app with dark/light mode, CRUD, and localStorage persistence.
+Minimal notes app with CRUD operations, theme toggle, and localStorage persistence.
 
-🔗 [Live](https://notes-app-black-alpha.vercel.app) · [Repository](https://github.com/Ishant8287/Notes-App)
+🔗 [Live](https://notes-app-black-alpha.vercel.app/) · [Repo](https://github.com/Ishant8287/Notes-App)
 
 ---
 
-### 💪 GymTracker — Workout Logger
-Workout tracking app with exercise logging, sets/reps tracking, and localStorage persistence.
+### 💪 Gym Tracker — Workout Logger
+Workout tracking app for logging exercises, sets, reps, and monitoring progress.
 
-🔗 [Live](https://gym-tracker-react-nine.vercel.app) · [Repository](https://github.com/Ishant8287/gym-tracker-react)
+🔗 [Live](https://gym-tracker-react-nine.vercel.app/) · [Repo](https://github.com/Ishant8287/gym-tracker-react)
 
 ---
 
 ## 📌 Current Focus
 
-- Building production-level backend systems
-- Learning Socket.io for real-time applications
-- Practicing DSA in Java
-- Targeting backend internships at product startups
+- Building production-level backend systems  
+- Learning Socket.io for real-time applications  
+- Strengthening PostgreSQL  
+- Practicing DSA in Java  
+- Targeting backend internships (product-based companies)  
 
 ---
 
